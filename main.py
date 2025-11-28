@@ -24,5 +24,6 @@ auv.set_sender('audio_compare')
 
 
 form.draw_form(behaviour)
+form.set_sender('audio_module')
 form.start_main_loop()
 
